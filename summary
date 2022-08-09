@@ -33,12 +33,12 @@
     032-tuples-in-typescript.mp4                                             : 00:04:04 + 2022-08-09
     033-tuples-in-action.mp4                                                 : 00:05:28 + 2022-08-09
     034-why-tuples.mp4                                                       : 00:03:20 + 2022-08-09
-    035-interfaces.mp4                                                       : 00:01:26
-    036-long-type-annotations.mp4                                            : 00:04:42
-    037-fixing-long-annotations-with-interfaces.mp4                          : 00:04:36
-    038-syntax-around-interfaces.mp4                                         : 00:03:31
-    039-functions-in-interfaces.mp4                                          : 00:04:46
-    040-code-reuse-with-interfaces.mp4                                       : 00:04:15
+    035-interfaces.mp4                                                       : 00:01:26 + 2022-08-09
+    036-long-type-annotations.mp4                                            : 00:04:42 + 2022-08-09
+    037-fixing-long-annotations-with-interfaces.mp4                          : 00:04:36 + 2022-08-09
+    038-syntax-around-interfaces.mp4                                         : 00:03:31 + 2022-08-09
+    039-functions-in-interfaces.mp4                                          : 00:04:46 + 2022-08-09
+    040-code-reuse-with-interfaces.mp4                                       : 00:04:15 + 2022-08-09
     041-general-plan-with-interfaces.mp4                                     : 00:03:12
     042-classes.mp4                                                          : 00:03:47
     043-basic-inheritance.mp4                                                : 00:03:03
