@@ -26,13 +26,13 @@
     025-void-and-never.mp4                                                   : 00:02:49 + 2022-08-09
     026-destructuring-with-annotations.mp4                                   : 00:03:35 + 2022-08-09
     027-annotations-around-objects.mp4                                       : 00:07:05 + 2022-08-09
-    028-arrays-in-typescript.mp4                                             : 00:05:05
-    029-why-typed-arrays.mp4                                                 : 00:04:30
-    030-multiple-types-in-arrays.mp4                                         : 00:02:57
-    031-when-to-use-typed-arrays.mp4                                         : 00:00:54
-    032-tuples-in-typescript.mp4                                             : 00:04:04
-    033-tuples-in-action.mp4                                                 : 00:05:28
-    034-why-tuples.mp4                                                       : 00:03:20
+    028-arrays-in-typescript.mp4                                             : 00:05:05 + 2022-08-09
+    029-why-typed-arrays.mp4                                                 : 00:04:30 + 2022-08-09
+    030-multiple-types-in-arrays.mp4                                         : 00:02:57 + 2022-08-09
+    031-when-to-use-typed-arrays.mp4                                         : 00:00:54 + 2022-08-09
+    032-tuples-in-typescript.mp4                                             : 00:04:04 + 2022-08-09
+    033-tuples-in-action.mp4                                                 : 00:05:28 + 2022-08-09
+    034-why-tuples.mp4                                                       : 00:03:20 + 2022-08-09
     035-interfaces.mp4                                                       : 00:01:26
     036-long-type-annotations.mp4                                            : 00:04:42
     037-fixing-long-annotations-with-interfaces.mp4                          : 00:04:36
