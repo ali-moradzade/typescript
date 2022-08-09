@@ -5,17 +5,17 @@
     004-executing-typescript-code.mp4                                        : 00:05:03 + 2022-08-09
     005-one-quick-change.mp4                                                 : 00:03:35 + 2022-08-09
     006-catching-errors-with-typescript.mp4                                  : 00:07:22 + 2022-08-09
-    007-catching-more-errors.mp4                                             : 00:05:15
-    008-do-not-skip-course-overview.mp4                                      : 00:03:36
-    009-types.mp4                                                            : 00:05:12
-    010-more-on-types.mp4                                                    : 00:05:53
-    011-examples-of-types.mp4                                                : 00:04:48
-    012-where-do-we-use-types.mp4                                            : 00:00:49
-    013-type-annotations-and-inference.mp4                                   : 00:02:03
-    014-annotations-with-variables.mp4                                       : 00:04:53
-    015-object-literal-annotations.mp4                                       : 00:06:53
-    016-annotations-around-functions.mp4                                     : 00:05:55
-    017-understanding-inference.mp4                                          : 00:03:51
+    007-catching-more-errors.mp4                                             : 00:05:15 + 2022-08-09
+    008-do-not-skip-course-overview.mp4                                      : 00:03:36 + 2022-08-09
+    009-types.mp4                                                            : 00:05:12 + 2022-08-09
+    010-more-on-types.mp4                                                    : 00:05:53 + 2022-08-09
+    011-examples-of-types.mp4                                                : 00:04:48 + 2022-08-09
+    012-where-do-we-use-types.mp4                                            : 00:00:49 + 2022-08-09
+    013-type-annotations-and-inference.mp4                                   : 00:02:03 + 2022-08-09
+    014-annotations-with-variables.mp4                                       : 00:04:53 + 2022-08-09
+    015-object-literal-annotations.mp4                                       : 00:06:53 + 2022-08-09
+    016-annotations-around-functions.mp4                                     : 00:05:55 + 2022-08-09
+    017-understanding-inference.mp4                                          : 00:03:51 + 2022-08-09
     018-the-any-type.mp4                                                     : 00:07:47
     019-fixing-the-any-type.mp4                                              : 00:01:49
     020-delayed-initialization.mp4                                           : 00:03:05
