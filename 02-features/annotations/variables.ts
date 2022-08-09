@@ -1,8 +1,8 @@
-let apples: number = 5;
-let speed: string = 'fast';
-let hasName: boolean = true;
-let nothingMuch: null = null;
-let nothing: undefined = undefined;
+let apples = 5;
+let speed = 'fast';
+let hasName = true;
+let nothingMuch = null;
+let nothing = undefined;
 
 // built-in objects
 let now: Date = new Date();
@@ -27,3 +27,8 @@ let point: {
     x: 10,
     y: 20,
 }
+
+// Function
+const logNumber: (i: number)=> void = (i: number) => {
+    console.log(i);
+};
