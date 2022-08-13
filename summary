@@ -68,29 +68,29 @@
     067-updating-interface-definitions.mp4                                   : 00:07:11 + 2022-08-13
     068-optional-implements-clauses.mp4                                      : 00:06:06 + 2022-08-13
     069-app-wrapup.mp4                                                       : 00:08:08 + 2022-08-13
-    070-app-overview.mp4                                                     : 00:01:34
-    071-configuring-the-ts-compiler.mp4                                      : 00:07:40
-    072-concurrent-compilation-and-execution.mp4                             : 00:05:05
-    073-a-simple-sorting-algorithm.mp4                                       : 00:04:47
-    074-sorter-scaffolding.mp4                                               : 00:03:10
-    075-sorting-implementation.mp4                                           : 00:05:17
-    076-two-huge-issues.mp4                                                  : 00:07:37
-    077-typescript-is-really-smart.mp4                                       : 00:09:34
-    078-type-guards.mp4                                                      : 00:09:13
-    079-why-is-this-bad.mp4                                                  : 00:02:22
-    080-extracting-key-logic.mp4                                             : 00:07:29
-    081-separating-swapping-and-comparison.mp4                               : 00:13:58
-    082-the-big-reveal.mp4                                                   : 00:04:38
-    083-interface-definition.mp4                                             : 00:04:48
-    084-sorting-arbitrary-collections.mp4                                    : 00:11:08
-    085-linked-list-implementation.mp4                                       : 00:24:15
-    086-just...one...more...fix...mp4                                        : 00:04:03
-    087-integrating-the-sort-method.mp4                                      : 00:02:44
-    088-issues-with-inheritance.mp4                                          : 00:06:54
-    089-abstract-classes.mp4                                                 : 00:06:25
-    090-why-use-abstract-classes.mp4                                         : 00:04:30
-    091-solving-all-issues-with-abstract-classes.mp4                         : 00:04:00
-    092-interfaces-vs-abstract-classes.mp4                                   : 00:03:23
+    070-app-overview.mp4                                                     : 00:01:34 + 2022-08-13
+    071-configuring-the-ts-compiler.mp4                                      : 00:07:40 + 2022-08-13
+    072-concurrent-compilation-and-execution.mp4                             : 00:05:05 + 2022-08-13
+    073-a-simple-sorting-algorithm.mp4                                       : 00:04:47 + 2022-08-13
+    074-sorter-scaffolding.mp4                                               : 00:03:10 + 2022-08-13
+    075-sorting-implementation.mp4                                           : 00:05:17 + 2022-08-13
+    076-two-huge-issues.mp4                                                  : 00:07:37 + 2022-08-13
+    077-typescript-is-really-smart.mp4                                       : 00:09:34 + 2022-08-13
+    078-type-guards.mp4                                                      : 00:09:13 + 2022-08-13
+    079-why-is-this-bad.mp4                                                  : 00:02:22 + 2022-08-13
+    080-extracting-key-logic.mp4                                             : 00:07:29 + 2022-08-13
+    081-separating-swapping-and-comparison.mp4                               : 00:13:58 + 2022-08-13
+    082-the-big-reveal.mp4                                                   : 00:04:38 + 2022-08-13
+    083-interface-definition.mp4                                             : 00:04:48 + 2022-08-13
+    084-sorting-arbitrary-collections.mp4                                    : 00:11:08 + 2022-08-13
+    085-linked-list-implementation.mp4                                       : 00:24:15 + 2022-08-13
+    086-just...one...more...fix...mp4                                        : 00:04:03 + 2022-08-13
+    087-integrating-the-sort-method.mp4                                      : 00:02:44 + 2022-08-13
+    088-issues-with-inheritance.mp4                                          : 00:06:54 + 2022-08-13
+    089-abstract-classes.mp4                                                 : 00:06:25 + 2022-08-13
+    090-why-use-abstract-classes.mp4                                         : 00:04:30 + 2022-08-13
+    091-solving-all-issues-with-abstract-classes.mp4                         : 00:04:00 + 2022-08-13
+    092-interfaces-vs-abstract-classes.mp4                                   : 00:03:23 + 2022-08-13
     093-project-overview.mp4                                                 : 00:01:45
     094-project-setup.mp4                                                    : 00:05:57
     095-type-definition-files-again.mp4                                      : 00:06:45
