@@ -46,28 +46,28 @@
     045-fields-in-classes.mp4                                                : 00:06:18 + 2022-08-10
     046-fields-with-inheritance.mp4                                          : 00:04:18 + 2022-08-10
     047-where-to-use-classes.mp4                                             : 00:01:10 + 2022-08-10
-    048-app-overview.mp4                                                     : 00:02:45
-    049-bundling-with-parcel.mp4                                             : 00:04:55
-    050-project-structure.mp4                                                : 00:03:19
-    051-generating-random-data.mp4                                           : 00:05:29
-    052-type-definition-files.mp4                                            : 00:05:17
-    053-using-type-definition-files.mp4                                      : 00:06:20
-    054-export-statements-intypescript.mp4                                   : 00:05:06
-    055-defining-a-company.mp4                                               : 00:04:43
-    056-adding-google-maps-support.mp4                                       : 00:07:38
-    057-google-maps-integration.mp4                                          : 00:04:06
-    058-exploring-type-definition-files.mp4                                  : 00:12:46
-    059-hiding-functionality.mp4                                             : 00:06:28
-    060-why-use-private-modifiers-here-s-why.mp4                             : 00:08:25
-    061-adding-markers.mp4                                                   : 00:09:18
-    062-duplicate-code.mp4                                                   : 00:02:45
-    063-one-possible-solution.mp4                                            : 00:06:38
-    064-restricting-access-with-interfaces.mp4                               : 00:05:35
-    065-implicit-type-checks.mp4                                             : 00:03:26
-    066-showing-popup-windows.mp4                                            : 00:06:47
-    067-updating-interface-definitions.mp4                                   : 00:07:11
-    068-optional-implements-clauses.mp4                                      : 00:06:06
-    069-app-wrapup.mp4                                                       : 00:08:08
+    048-app-overview.mp4                                                     : 00:02:45 + 2022-08-10
+    049-bundling-with-parcel.mp4                                             : 00:04:55 + 2022-08-10
+    050-project-structure.mp4                                                : 00:03:19 + 2022-08-10
+    051-generating-random-data.mp4                                           : 00:05:29 + 2022-08-10
+    052-type-definition-files.mp4                                            : 00:05:17 + 2022-08-10
+    053-using-type-definition-files.mp4                                      : 00:06:20 + 2022-08-10
+    054-export-statements-intypescript.mp4                                   : 00:05:06 + 2022-08-10
+    055-defining-a-company.mp4                                               : 00:04:43 + 2022-08-10
+    056-adding-google-maps-support.mp4                                       : 00:07:38 + 2022-08-10
+    057-google-maps-integration.mp4                                          : 00:04:06 + 2022-08-10
+    058-exploring-type-definition-files.mp4                                  : 00:12:46 + 2022-08-10
+    059-hiding-functionality.mp4                                             : 00:06:28 + 2022-08-10
+    060-why-use-private-modifiers-here-s-why.mp4                             : 00:08:25 + 2022-08-10
+    061-adding-markers.mp4                                                   : 00:09:18 + 2022-08-13
+    062-duplicate-code.mp4                                                   : 00:02:45 + 2022-08-13
+    063-one-possible-solution.mp4                                            : 00:06:38 + 2022-08-13
+    064-restricting-access-with-interfaces.mp4                               : 00:05:35 + 2022-08-13
+    065-implicit-type-checks.mp4                                             : 00:03:26 + 2022-08-13
+    066-showing-popup-windows.mp4                                            : 00:06:47 + 2022-08-13
+    067-updating-interface-definitions.mp4                                   : 00:07:11 + 2022-08-13
+    068-optional-implements-clauses.mp4                                      : 00:06:06 + 2022-08-13
+    069-app-wrapup.mp4                                                       : 00:08:08 + 2022-08-13
     070-app-overview.mp4                                                     : 00:01:34
     071-configuring-the-ts-compiler.mp4                                      : 00:07:40
     072-concurrent-compilation-and-execution.mp4                             : 00:05:05

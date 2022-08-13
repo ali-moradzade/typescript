@@ -1,5 +1,6 @@
 class Vehicle {
-    constructor(public color: string) {}
+    constructor(public color: string) {
+    }
 
     // public drive(): void {
     //     console.log('chugga chugga');
