@@ -110,15 +110,15 @@
     109-creating-abstract-classes.mp4                                        : 00:04:21 + 2022-08-14
     110-variable-types-with-generics.mp4                                     : 00:11:27 + 2022-08-14
     111-applying-a-type-to-a-generic-class.mp4                               : 00:04:11 + 2022-08-14
-    112-alternate-refactor.mp4                                               : 00:04:20
-    113-interface-based-approach.mp4                                         : 00:02:04
-    114-extracting-match-references-again.mp4                                : 00:02:33
-    115-transforming-data.mp4                                                : 00:02:36
-    116-updating-reader-references.mp4                                       : 00:03:39
-    117-inheritance-vs-composition.mp4                                       : 00:03:20
-    118-more-on-inheritance-vs-composition.mp4                               : 00:07:22
-    119-a-huge-misconception-around-composition.mp4                          : 00:14:56
-    120-goal-moving-forward.mp4                                              : 00:05:16
+    112-alternate-refactor.mp4                                               : 00:04:20 + 2022-08-14
+    113-interface-based-approach.mp4                                         : 00:02:04 + 2022-08-14
+    114-extracting-match-references-again.mp4                                : 00:02:33 + 2022-08-14
+    115-transforming-data.mp4                                                : 00:02:36 + 2022-08-14
+    116-updating-reader-references.mp4                                       : 00:03:39 + 2022-08-14
+    117-inheritance-vs-composition.mp4                                       : 00:03:20 + 2022-08-14
+    118-more-on-inheritance-vs-composition.mp4                               : 00:07:22 + 2022-08-14
+    119-a-huge-misconception-around-composition.mp4                          : 00:14:56 + 2022-08-14
+    120-goal-moving-forward.mp4                                              : 00:05:16 + 2022-08-14
     121-a-composition-based-approach.mp4                                     : 00:06:26
     122-implementing-an-analyzer-class.mp4                                   : 00:07:24
     123-building-the-reporter.mp4                                            : 00:05:26
