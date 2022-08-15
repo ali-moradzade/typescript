@@ -172,11 +172,11 @@
 
 =======================================================================================
 12-advanced-generics:
-    01-more-on-generics.mp4                                                  : 00:05:04
-    02-type-inference-with-generics.mp4                                      : 00:02:49
-    03-function-generics.mp4                                                 : 00:06:05
-    04-generic-constraints.mp4                                               : 00:05:50
-    total                                                                    : 00:19:48
+    01-more-on-generics.mp4                                                  : 00:05:04 + 2022-08-15
+    02-type-inference-with-generics.mp4                                      : 00:02:49 + 2022-08-15
+    03-function-generics.mp4                                                 : 00:06:05 + 2022-08-15
+    04-generic-constraints.mp4                                               : 00:05:50 + 2022-08-15
+    total                                                                    : 00:19:48 +
 
 =======================================================================================
 13-let-s-build-a-web-framework:
