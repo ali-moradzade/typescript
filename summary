@@ -180,12 +180,12 @@
 
 =======================================================================================
 13-let-s-build-a-web-framework:
-    01-app-overview.mp4                                                      : 00:02:45
-    02-parcel-setup.mp4                                                      : 00:02:42
-    03-framework-structure.mp4                                               : 00:08:05
-    04-designing-the-user.mp4                                                : 00:02:48
-    05-retrieving-user-properties.mp4                                        : 00:05:59
-    06-optional-interface-properties.mp4                                     : 00:06:36
+    01-app-overview.mp4                                                      : 00:02:45 + 2022-08-15
+    02-parcel-setup.mp4                                                      : 00:02:42 + 2022-08-15
+    03-framework-structure.mp4                                               : 00:08:05 + 2022-08-15
+    04-designing-the-user.mp4                                                : 00:02:48 + 2022-08-15
+    05-retrieving-user-properties.mp4                                        : 00:05:59 + 2022-08-15
+    06-optional-interface-properties.mp4                                     : 00:06:36 + 2022-08-15
     07-an-eventing-system.mp4                                                : 00:02:44
     08-listener-support.mp4                                                  : 00:04:23
     09-storing-event-listeners.mp4                                           : 00:05:24
