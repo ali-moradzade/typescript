@@ -256,20 +256,20 @@
 
 =======================================================================================
 14-express-typescript-integration:
-    01-typescript-with-js-libraries.mp4                                      : 00:05:34
-    02-app-overview.mp4                                                      : 00:03:19
-    03-project-setup.mp4                                                     : 00:03:31
-    04-basic-routes-with-express.mp4                                         : 00:06:31
-    05-using-an-express-router.mp4                                           : 00:03:45
-    06-parsing-form-bodies.mp4                                               : 00:05:55
-    07-why-doesn-t-express-play-nicely-with-ts.mp4                           : 00:13:55
-    08-issues-with-type-definition-files.mp4                                 : 00:10:16
-    09-dealing-with-poor-type-defs.mp4                                       : 00:06:28
-    10-wiring-up-sessions.mp4                                                : 00:08:35
-    11-checking-login-status.mp4                                             : 00:03:19
-    12-logging-out.mp4                                                       : 00:01:09
-    13-protecting-routes.mp4                                                 : 00:04:51
-    14-a-closer-integration.mp4                                              : 00:06:33
+    01-typescript-with-js-libraries.mp4                                      : 00:05:34 + 2022-08-16
+    02-app-overview.mp4                                                      : 00:03:19 + 2022-08-16
+    03-project-setup.mp4                                                     : 00:03:31 + 2022-08-16
+    04-basic-routes-with-express.mp4                                         : 00:06:31 + 2022-08-16
+    05-using-an-express-router.mp4                                           : 00:03:45 + 2022-08-16
+    06-parsing-form-bodies.mp4                                               : 00:05:55 + 2022-08-16
+    07-why-doesn-t-express-play-nicely-with-ts.mp4                           : 00:13:55 + 2022-08-16
+    08-issues-with-type-definition-files.mp4                                 : 00:10:16 + 2022-08-16
+    09-dealing-with-poor-type-defs.mp4                                       : 00:06:28 + 2022-08-16
+    10-wiring-up-sessions.mp4                                                : 00:08:35 + 2022-08-16
+    11-checking-login-status.mp4                                             : 00:03:19 + 2022-08-16
+    12-logging-out.mp4                                                       : 00:01:09 + 2022-08-16
+    13-protecting-routes.mp4                                                 : 00:04:51 + 2022-08-16
+    14-a-closer-integration.mp4                                              : 00:06:33 + 2022-08-16
     15-the-refactoring-process.mp4                                           : 00:03:14
     16-prototypes-reminder.mp4                                               : 00:08:43
     total                                                                    : 01:35:38
