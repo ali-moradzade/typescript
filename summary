@@ -20,16 +20,16 @@
 
 =======================================================================================
 03-type-annotations-in-action:
-    01-type-annotations-and-inference.mp4                                    : 00:02:03 
-    02-annotations-with-variables.mp4                                        : 00:04:53 
-    03-object-literal-annotations.mp4                                        : 00:06:53 
-    04-annotations-around-functions.mp4                                      : 00:05:55 
-    05-understanding-inference.mp4                                           : 00:03:51 
-    06-the-any-type.mp4                                                      : 00:07:47 
-    07-fixing-the-any-type.mp4                                               : 00:01:49 
-    08-delayed-initialization.mp4                                            : 00:03:05 
-    09-when-inference-doesn-t-work.mp4                                       : 00:04:37 
-    total                                                                    : 00:40:53 
+    01-type-annotations-and-inference.mp4                                    : 00:02:03  + 2022-12-15
+    02-annotations-with-variables.mp4                                        : 00:04:53  + 2022-12-15
+    03-object-literal-annotations.mp4                                        : 00:06:53  + 2022-12-15
+    04-annotations-around-functions.mp4                                      : 00:05:55  + 2022-12-15
+    05-understanding-inference.mp4                                           : 00:03:51  + 2022-12-15
+    06-the-any-type.mp4                                                      : 00:07:47  + 2022-12-15
+    07-fixing-the-any-type.mp4                                               : 00:01:49  + 2022-12-15
+    08-delayed-initialization.mp4                                            : 00:03:05  + 2022-12-15
+    09-when-inference-doesn-t-work.mp4                                       : 00:04:37  + 2022-12-15
+    total                                                                    : 00:40:53  + 
 
 =======================================================================================
 04-annotations-with-functions-and-objects:
