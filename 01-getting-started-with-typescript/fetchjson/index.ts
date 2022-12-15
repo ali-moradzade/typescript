@@ -1,4 +1,4 @@
-import axios from "axios";
+import axios from 'axios';
 
 const url = 'https://jsonplaceholder.typicode.com/todos/1';
 
@@ -16,14 +16,13 @@ axios.get(url)
         const title = todo.title;
         const completed = todo.completed;
 
-        logTodo(id, title, completed);
+        logTodo(id, completed, title);
     });
 
-const logTodo = (id: number, title: string, completed: boolean) => {
-    console.log(`
-The Todo with id: ${id}
-Has a title of: ${title}
-Is it finished? ${completed}
-        `);
-
+function logTodo(id, title, completed) {
+    console.log({
+        id,
+        title,
+        completed
+    });
 }

@@ -1,15 +1,23 @@
 {
   "name": "01-fetchjson",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Ali Moradzade",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.27.2"
-  }
+  },
+  "description": "Fetching some data, and printing it, using typescript",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ali-moradzade/typescript.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ali-moradzade/typescript/issues"
+  },
+  "homepage": "https://github.com/ali-moradzade/typescript#readme"
 }
