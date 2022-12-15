@@ -11,12 +11,12 @@
 
 =======================================================================================
 02-what-is-a-type-system:
-    01-do-not-skip-course-overview.mp4                                       : 00:03:36 
-    02-types.mp4                                                             : 00:05:12 
-    03-more-on-types.mp4                                                     : 00:05:53 
-    04-examples-of-types.mp4                                                 : 00:04:48 
-    05-where-do-we-use-types.mp4                                             : 00:00:49 
-    total                                                                    : 00:20:18 
+    01-do-not-skip-course-overview.mp4                                       : 00:03:36 + 2022-12-15
+    02-types.mp4                                                             : 00:05:12 + 2022-12-15
+    03-more-on-types.mp4                                                     : 00:05:53 + 2022-12-15
+    04-examples-of-types.mp4                                                 : 00:04:48 + 2022-12-15
+    05-where-do-we-use-types.mp4                                             : 00:00:49 + 2022-12-15
+    total                                                                    : 00:20:18 +
 
 =======================================================================================
 03-type-annotations-in-action:
