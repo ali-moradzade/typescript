@@ -43,11 +43,11 @@
 
 =======================================================================================
 05-mastering-typed-arrays:
-    01-arrays-in-typescript.mp4                                              : 00:05:05 
-    02-why-typed-arrays.mp4                                                  : 00:04:30 
-    03-multiple-types-in-arrays.mp4                                          : 00:02:57 
-    04-when-to-use-typed-arrays.mp4                                          : 00:00:54 
-    total                                                                    : 00:13:26 
+    01-arrays-in-typescript.mp4                                              : 00:05:05 + 2022-12-18
+    02-why-typed-arrays.mp4                                                  : 00:04:30 + 2022-12-18
+    03-multiple-types-in-arrays.mp4                                          : 00:02:57 + 2022-12-18
+    04-when-to-use-typed-arrays.mp4                                          : 00:00:54 + 2022-12-18
+    total                                                                    : 00:13:26 + 
 
 =======================================================================================
 06-tuples-in-typescript:
