@@ -40,5 +40,5 @@ const logWeather2 = ({date, weather}: { date: Date, weather: string }): void => 
 };
 
 logWeather(todayWeather);
-logWeather2(todayWeather)
+logWeather2(todayWeather);
 
