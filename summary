@@ -69,13 +69,13 @@
 
 =======================================================================================
 08-building-functionality-with-classes:
-    01-classes.mp4                                                           : 00:03:47 
-    02-basic-inheritance.mp4                                                 : 00:03:03 
-    03-instance-method-modifiers.mp4                                         : 00:06:41 
-    04-fields-in-classes.mp4                                                 : 00:06:18 
-    05-fields-with-inheritance.mp4                                           : 00:04:18 
-    06-where-to-use-classes.mp4                                              : 00:01:10 
-    total                                                                    : 00:25:17 
+    01-classes.mp4                                                           : 00:03:47 + 2022-12-20
+    02-basic-inheritance.mp4                                                 : 00:03:03 + 2022-12-20
+    03-instance-method-modifiers.mp4                                         : 00:06:41 + 2022-12-20
+    04-fields-in-classes.mp4                                                 : 00:06:18 + 2022-12-20
+    05-fields-with-inheritance.mp4                                           : 00:04:18 + 2022-12-20
+    06-where-to-use-classes.mp4                                              : 00:01:10 + 2022-12-20
+    total                                                                    : 00:25:17 +
 
 =======================================================================================
 09-design-patterns-with-typescript:
