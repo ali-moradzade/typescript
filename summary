@@ -58,14 +58,14 @@
 
 =======================================================================================
 07-the-all-important-interface:
-    01-interfaces.mp4                                                        : 00:01:26 
-    02-long-type-annotations.mp4                                             : 00:04:42 
-    03-fixing-long-annotations-with-interfaces.mp4                           : 00:04:36 
-    04-syntax-around-interfaces.mp4                                          : 00:03:31 
-    05-functions-in-interfaces.mp4                                           : 00:04:46 
-    06-code-reuse-with-interfaces.mp4                                        : 00:04:15 
-    07-general-plan-with-interfaces.mp4                                      : 00:03:12 
-    total                                                                    : 00:26:28 
+    01-interfaces.mp4                                                        : 00:01:26 + 2022-12-18
+    02-long-type-annotations.mp4                                             : 00:04:42 + 2022-12-18
+    03-fixing-long-annotations-with-interfaces.mp4                           : 00:04:36 + 2022-12-18
+    04-syntax-around-interfaces.mp4                                          : 00:03:31 + 2022-12-18
+    05-functions-in-interfaces.mp4                                           : 00:04:46 + 2022-12-18
+    06-code-reuse-with-interfaces.mp4                                        : 00:04:15 + 2022-12-18
+    07-general-plan-with-interfaces.mp4                                      : 00:03:12 + 2022-12-18
+    total                                                                    : 00:26:28 +
 
 =======================================================================================
 08-building-functionality-with-classes:
