@@ -15,10 +15,9 @@ export interface Mappable {
 }
 
 export class CustomMap {
-    private googleMap: google.maps.Map;
+    private readonly googleMap: google.maps.Map;
 
     constructor(divId: string) {
-        // @ts-ignore
         this.googleMap = new google.maps.Map(document.getElementById(divId), {
             zoom: 1,
             center: {
@@ -37,6 +36,9 @@ export class CustomMap {
             }
         });
 
+        // Adding our popup window to show to user
+        // when he clicked on the marker
+
         const infoWindow = new google.maps.InfoWindow({
             content: mappable.markerContent(),
         });
@@ -45,6 +47,10 @@ export class CustomMap {
             infoWindow.open(this.googleMap, marker);
         });
     }
+
+    // ######### Bad Implementation #########
+    // 1. Not Scalable --> User | Company | ParkingLot | Park
+    // 2. Very tight coupling between our classes
 
     // addMarker(mappable: User | Company): void {
     //     new google.maps.Marker({
@@ -56,12 +62,26 @@ export class CustomMap {
     //     });
     // }
 
+    // ######### Very Bad Implementation #########
+    // A lot of code duplication, and direct
+    // dependency on all other classes
+
+    // addUserMarker(user: User): void {
+    //     new google.maps.Marker({
+    //         map: this.googleMap,
+    //         position: {
+    //             lat: user.location.lat,
+    //             lng: user.location.lng,
+    //         }
+    //     });
+    // }
+    //
     // addCompanyMarker(company: Company): void {
     //     new google.maps.Marker({
     //         map: this.googleMap,
     //         position: {
     //             lat: company.location.lat,
-    //             lng: company.location.lng
+    //             lng: company.location.lng,
     //         }
     //     });
     // }

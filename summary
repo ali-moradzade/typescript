@@ -79,31 +79,31 @@
 
 =======================================================================================
 09-design-patterns-with-typescript:
-    01-app-overview.mp4                                                      : 00:02:45 
-    02-bundling-with-parcel.mp4                                              : 00:04:55 
-    03-project-structure.mp4                                                 : 00:03:19 
-    04-generating-random-data.mp4                                            : 00:05:29 
-    05-type-definition-files.mp4                                             : 00:05:17 
-    06-using-type-definition-files.mp4                                       : 00:06:20 
-    07-export-statements-intypescript.mp4                                    : 00:05:06 
-    08-defining-a-company.mp4                                                : 00:04:43 
-    09-adding-google-maps-support.mp4                                        : 00:07:38 
-    10-google-maps-integration.mp4                                           : 00:04:06 
-    11-exploring-type-definition-files.mp4                                   : 00:12:46 
-    12-hiding-functionality.mp4                                              : 00:06:28 
-    13-why-use-private-modifiers-here-s-why.mp4                              : 00:08:25 
-    14-adding-markers.mp4                                                    : 00:09:18 
-    15-duplicate-code.mp4                                                    : 00:02:45 
-    16-one-possible-solution.mp4                                             : 00:06:38 
-    17-restricting-access-with-interfaces.mp4                                : 00:05:35 
-    18-implicit-type-checks.mp4                                              : 00:03:26 
-    19-showing-popup-windows.mp4                                             : 00:06:47 
-    20-updating-interface-definitions.mp4                                    : 00:07:11 
-    21-optional-implements-clauses.mp4                                       : 00:06:06 
-    22-app-wrapup.mp4                                                        : 00:08:08 
-    total                                                                    : 02:13:11 
-
-=======================================================================================
+    01-app-overview.mp4                                                      : 00:02:45 + 2022-12-21
+    02-bundling-with-parcel.mp4                                              : 00:04:55 + 2022-12-21
+    03-project-structure.mp4                                                 : 00:03:19 + 2022-12-21
+    04-generating-random-data.mp4                                            : 00:05:29 + 2022-12-21
+    05-type-definition-files.mp4                                             : 00:05:17 + 2022-12-21
+    06-using-type-definition-files.mp4                                       : 00:06:20 + 2022-12-21
+    07-export-statements-intypescript.mp4                                    : 00:05:06 + 2022-12-21
+    08-defining-a-company.mp4                                                : 00:04:43 + 2022-12-21
+    09-adding-google-maps-support.mp4                                        : 00:07:38 + 2022-12-21
+    10-google-maps-integration.mp4                                           : 00:04:06 + 2022-12-21
+    11-exploring-type-definition-files.mp4                                   : 00:12:46 + 2022-12-21
+    12-hiding-functionality.mp4                                              : 00:06:28 + 2022-12-21
+    13-why-use-private-modifiers-here-s-why.mp4                              : 00:08:25 + 2022-12-21
+    14-adding-markers.mp4                                                    : 00:09:18 + 2022-12-21
+    15-duplicate-code.mp4                                                    : 00:02:45 + 2022-12-21
+    16-one-possible-solution.mp4                                             : 00:06:38 + 2022-12-21
+    17-restricting-access-with-interfaces.mp4                                : 00:05:35 + 2022-12-21
+    18-implicit-type-checks.mp4                                              : 00:03:26 + 2022-12-21
+    19-showing-popup-windows.mp4                                             : 00:06:47 + 2022-12-21
+    20-updating-interface-definitions.mp4                                    : 00:07:11 + 2022-12-21
+    21-optional-implements-clauses.mp4                                       : 00:06:06 + 2022-12-21
+    22-app-wrapup.mp4                                                        : 00:08:08 + 2022-12-21
+    total                                                                    : 02:13:11 +
+                                                                                        
+======================================================================================= 
 10-more-on-design-patterns:
     01-app-overview.mp4                                                      : 00:01:34 
     02-configuring-the-ts-compiler.mp4                                       : 00:07:40 
