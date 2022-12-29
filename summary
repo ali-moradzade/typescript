@@ -132,30 +132,30 @@
 
 =======================================================================================
 11-reusable-code:
-    01-project-overview.mp4                                                  : 00:01:45 
-    02-project-setup.mp4                                                     : 00:05:57 
-    03-type-definition-files-again.mp4                                       : 00:06:45 
-    04-reading-csv-files.mp4                                                 : 00:05:05 
-    05-running-an-analysis.mp4                                               : 00:04:22 
-    06-losing-dataset-context.mp4                                            : 00:05:12 
-    07-using-enums.mp4                                                       : 00:06:19 
-    08-when-to-use-enums.mp4                                                 : 00:07:04 
-    09-extracting-csv-reading.mp4                                            : 00:08:50 
-    10-data-types.mp4                                                        : 00:02:33 
-    11-converting-date-strings-to-dates.mp4                                  : 00:05:02 
-    12-converting-row-values.mp4                                             : 00:03:37 
-    13-type-assertions.mp4                                                   : 00:03:57 
-    14-describing-a-row-with-a-tuple.mp4                                     : 00:07:28 
-    15-not-done-with-filereader-yet.mp4                                      : 00:03:14 
-    16-understanding-refactor-1.mp4                                          : 00:04:35 
-    17-creating-abstract-classes.mp4                                         : 00:04:21 
-    18-variable-types-with-generics.mp4                                      : 00:11:27 
-    19-applying-a-type-to-a-generic-class.mp4                                : 00:04:11 
-    20-alternate-refactor.mp4                                                : 00:04:20 
-    21-interface-based-approach.mp4                                          : 00:02:04 
-    22-extracting-match-references-again.mp4                                 : 00:02:33 
-    23-transforming-data.mp4                                                 : 00:02:36 
-    24-updating-reader-references.mp4                                        : 00:03:39 
+    01-project-overview.mp4                                                  : 00:01:45 + 2022-12-29
+    02-project-setup.mp4                                                     : 00:05:57 + 2022-12-29
+    03-type-definition-files-again.mp4                                       : 00:06:45 + 2022-12-29
+    04-reading-csv-files.mp4                                                 : 00:05:05 + 2022-12-29
+    05-running-an-analysis.mp4                                               : 00:04:22 + 2022-12-29
+    06-losing-dataset-context.mp4                                            : 00:05:12 + 2022-12-29
+    07-using-enums.mp4                                                       : 00:06:19 + 2022-12-29
+    08-when-to-use-enums.mp4                                                 : 00:07:04 + 2022-12-29
+    09-extracting-csv-reading.mp4                                            : 00:08:50 + 2022-12-29
+    10-data-types.mp4                                                        : 00:02:33 + 2022-12-29
+    11-converting-date-strings-to-dates.mp4                                  : 00:05:02 + 2022-12-29
+    12-converting-row-values.mp4                                             : 00:03:37 + 2022-12-29
+    13-type-assertions.mp4                                                   : 00:03:57 + 2022-12-29
+    14-describing-a-row-with-a-tuple.mp4                                     : 00:07:28 + 2022-12-29
+    15-not-done-with-filereader-yet.mp4                                      : 00:03:14 + 2022-12-29
+    16-understanding-refactor-1.mp4                                          : 00:04:35 + 2022-12-29
+    17-creating-abstract-classes.mp4                                         : 00:04:21 + 2022-12-29
+    18-variable-types-with-generics.mp4                                      : 00:11:27 + 2022-12-29
+    19-applying-a-type-to-a-generic-class.mp4                                : 00:04:11 + 2022-12-29
+    20-alternate-refactor.mp4                                                : 00:04:20 + 2022-12-29
+    21-interface-based-approach.mp4                                          : 00:02:04 + 2022-12-29
+    22-extracting-match-references-again.mp4                                 : 00:02:33 + 2022-12-29
+    23-transforming-data.mp4                                                 : 00:02:36 + 2022-12-29
+    24-updating-reader-references.mp4                                        : 00:03:39 + 2022-12-29
     25-inheritance-vs-composition.mp4                                        : 00:03:20 
     26-more-on-inheritance-vs-composition.mp4                                : 00:07:22 
     27-a-huge-misconception-around-composition.mp4                           : 00:14:56 

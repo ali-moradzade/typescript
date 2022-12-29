@@ -1,0 +1,26 @@
+{
+  "name": "11-reusable-code",
+  "version": "1.0.0",
+  "description": "Writing reusable code",
+  "main": "index.js",
+  "scripts": {
+    "start:build": "tsc -W",
+    "start:run": "nodemon build/index.js",
+    "start": "concurrently npm:start:*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ali-moradzade/typescript.git"
+  },
+  "author": "Ali Moradzade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ali-moradzade/typescript/issues"
+  },
+  "homepage": "https://github.com/ali-moradzade/typescript#readme",
+  "dependencies": {
+    "@types/node": "^18.11.18",
+    "concurrently": "^7.6.0",
+    "nodemon": "^2.0.20"
+  }
+}
